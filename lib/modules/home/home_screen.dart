@@ -124,7 +124,7 @@ class ProjectsView extends StatelessWidget {
                                 }
                               },
                               child: const Text(
-                                "Go to epository",
+                                "Go to repository",
                                 style: TextStyle(color: primaryColor),
                               ),
                             ),
